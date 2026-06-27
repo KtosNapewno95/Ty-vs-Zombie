@@ -126,12 +126,12 @@ The world contains several interactive gameplay elements:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ty-vs-zombie-2.git
+git clone https://github.com/KtosNapewno95/Ty-vs-Zombie.git
 ```
 
 2. Open the project using Godot 4.7
 
-3. Press **F5** to play.
+3. Press **F5** or **Fn+F5** to play.
 
 ---
 
@@ -169,8 +169,6 @@ Please note that third-party assets (models, sounds, animations, VFX) may have t
 ## 🙏 Credits
 
 - Built with **Godot Engine**
-- Sound effects from Pixabay
-- Zombie animations from Mesh2Motion
 - Additional VFX and assets credited to their respective authors
 
 ---
