@@ -1,4 +1,4 @@
-# 🧟 Ty vs Zombie 2
+# 🧟 Ty vs Zombie
 
 > A fast-paced first-person zombie shooter built with **Godot 4.7**.
 
